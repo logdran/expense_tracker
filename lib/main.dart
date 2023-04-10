@@ -17,7 +17,7 @@ class MyHomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Expense tracker App'),
+        title: Text('Expense tracker app'),
       ),
       body: Column(
         children: <Widget>[
